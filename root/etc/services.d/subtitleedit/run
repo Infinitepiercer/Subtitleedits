@@ -13,4 +13,4 @@ s6-setuidgid abc
 s6-env DISPLAY=:1 HOME=/config
 
 # Run SubtitleEdit
-mono /SubtitleEdit/SubtitleEdit-4.0.15-Setup.exe
+mono /SubtitleEdit/SubtitleEdit.exe
